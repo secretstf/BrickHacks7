@@ -4,7 +4,7 @@ import requests # gives access to websites
 # Set or replace these values
 # I think you have to upload it to the repo, so you can upload the file to the repo.
 # Its on the left I believe
-file_path = os.environ[""]
+file_path = os.environ["TestSong.mp3"]
 api_key = os.environ["bboZsjxKSeuRPApxB6svab4GUdQGzLq2"]
 
 # Declare your dlb:// location
